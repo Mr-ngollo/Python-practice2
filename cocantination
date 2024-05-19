@@ -1,0 +1,4 @@
+l1="abc"
+l2="def"
+l3=l1+" "+l2
+print(l3)

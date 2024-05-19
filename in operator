@@ -1,0 +1,4 @@
+l1=[2,4,6,8]
+print(2 in l1)
+
+print(3 in l1)
